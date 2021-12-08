@@ -1,16 +1,4 @@
 # design_day_two
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ] ![ewallet](https://user-images.githubusercontent.com/22236736/145216732-35ab2a9a-11be-40c5-b2a2-c4ae4cf99e04.jpg)
+![login page](https://user-images.githubusercontent.com/22236736/145216757-e669327d-3d35-42d7-9f46-0da3b59e64c3.jpg)
